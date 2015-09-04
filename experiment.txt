@@ -1,0 +1,260 @@
+python substring_search.py 1000000 1 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 4.50611114502e-06 sec 
+
+[6, 0, 0, 0, 6, 0, 1, 3, 1, 6]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.0389488935471 sec 
+
+[6, 0, 0, 0, 6, 0, 1, 3, 1, 6]
+OK
+
+python substring_search.py 1000000 2 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 1.540184021e-05 sec 
+
+[9, 8, 19, 47, 0, 1, 22, 47, 22, 11]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.0391592979431 sec 
+
+[9, 8, 19, 47, 0, 1, 22, 47, 22, 11]
+OK
+
+python substring_search.py 1000000 5 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.000823402404785 sec 
+
+[1294, 1258, 193, 1309, 2335, 1171, 498, 2521, 1235, 40]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.0399548053741 sec 
+
+[1294, 1258, 193, 1309, 2335, 1171, 498, 2521, 1235, 40]
+OK
+
+python substring_search.py 1000000 7 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.0210448980331 sec 
+
+[13744, 80706, 37965, 33714, 12703, 9775, 57031, 16753, 24324, 15292]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.0573272943497 sec 
+
+[13744, 80706, 37965, 33714, 12703, 9775, 57031, 16753, 24324, 15292]
+OK
+
+python substring_search.py 1000000 9 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.154466199875 sec 
+
+[148316, 402783, 220904, 111590, 324614, 123836, 287946, 242789, 192220, 151501]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.169061088562 sec 
+
+[148316, 402783, 220904, 111590, 324614, 123836, 287946, 242789, 192220, 151501]
+OK
+
+
+python substring_search.py 1000000 10 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.527451992035 sec 
+
+[-1, -1, -1, 472242, 577210, -1, -1, 648347, 794458, 11075]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.4725481987 sec 
+
+[-1, -1, -1, 472242, 577210, -1, -1, 648347, 794458, 11075]
+OK
+
+
+python substring_search.py 1000000 11 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.621789693832 sec 
+
+[-1, 436218, -1, -1, -1, -1, -1, 384469, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.550091409683 sec 
+
+[-1, 436218, -1, -1, -1, -1, -1, 384469, -1, -1]
+OK
+
+
+python substring_search.py 1000000 12 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.701891088486 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.62067129612 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 15 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.707935500145 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.605745911598 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 17 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.706571817398 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.627451992035 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 19 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.705957698822 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.617247605324 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 20 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.709453701973 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.626036000252 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+python substring_search.py 1000000 30 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.705403995514 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.609051394463 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 40 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.703685498238 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.600534009933 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 50 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.701763701439 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.594201588631 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+python substring_search.py 1000000 100 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.703602409363 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.592835211754 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 500 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.700294184685 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.580022001266 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 1000 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.700230002403 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.586250901222 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+
+python substring_search.py 1000000 10000 10
+Start creating text(1) and substrings(10)...
+Start bruteforce searching...
+Mean BruteForce time per 1 search: 0.691655015945 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+
+Start Rabin-Karp searching...
+Mean Rabin-Karp time per 1 search: 0.586782097816 sec 
+
+[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+OK
+
+

@@ -79,7 +79,8 @@ Example:
     sys.exit(-1)
     
 
-alphabet = string.ascii_uppercase
+#alphabet = string.ascii_uppercase
+alphabet = ['A', 'B', 'C', 'D']
 
 
 text = ""
@@ -97,6 +98,8 @@ for k in range(iters):
     for i in range(m):
         substring[k] += random.choice(alphabet)
 
+#print text
+#print substring
 
 #search substring in text
 pos = [None] * iters
